@@ -168,6 +168,14 @@
             "@id": "reproterms:scoring_logic",
             "@container": "@index"
         },
+        "compute": {
+            "@id": "reproterms:compute",
+            "@container": "@index"
+        },
+        "messages": {
+            "@id": "reproterms:messages",
+            "@container": "@index"
+        },
         "jsExpression": {
             "@id": "reproterms:jsExpression"
         },
