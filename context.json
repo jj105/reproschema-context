@@ -176,6 +176,9 @@
             "@id": "reproterms:messages",
             "@container": "@index"
         },
+        "message": {
+            "@id": "reproterms:message"
+        },
         "jsExpression": {
             "@id": "reproterms:jsExpression"
         },
