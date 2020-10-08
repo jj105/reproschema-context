@@ -69,6 +69,10 @@
             "@id": "reproterms:landingPage",
             "@container": "@language"
         },
+        "landingPageContent": {
+            "@id": "reproterms:landingPageContent",
+            "@container": "@language"
+        },
         "question": {
             "@id": "schema:question",
             "@container": "@language"
