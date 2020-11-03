@@ -73,6 +73,9 @@
             "@id": "reproterms:landingPageContent",
             "@container": "@language"
         },
+        "correctAnswer": {
+            "@id": "schema:correctAnswer"
+        },
         "question": {
             "@id": "schema:question",
             "@container": "@language"
