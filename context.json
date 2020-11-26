@@ -25,10 +25,17 @@
             "@id": "schema:value",
             "@container": "@language"
         },
+        "score": {
+            "@id": "schema:score",
+            "@container": "@language"
+        },
         "schema:name": {
             "@container": "@language"
         },
         "schema:value": {
+            "@container": "@language"
+        },
+        "schema:score": {
             "@container": "@language"
         },
         "schema:image": {
@@ -93,6 +100,10 @@
         },
         "multipleChoice": {
             "@id": "reproterms:multipleChoice",
+            "@type": "schema:Boolean"
+        },
+        "scoring": {
+            "@id": "reproterms:scoring",
             "@type": "schema:Boolean"
         },
         "responseOptions": {
