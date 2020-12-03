@@ -186,6 +186,10 @@
             "@id": "reproterms:scoring_logic",
             "@container": "@index"
         },
+        "subScales": {
+            "@id": "reproterms:subScales",
+            "@container": "@index"
+        },
         "compute": {
             "@id": "reproterms:compute",
             "@container": "@index"
