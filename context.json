@@ -190,6 +190,14 @@
             "@id": "reproterms:subScales",
             "@container": "@index"
         },
+        "lookupTable": {
+            "@id": "reproterms:lookupTable",
+            "@container": "@index"
+        },
+        "tScore": "reproterms:tScore",
+        "rawScore": "reproterms:rawScore",
+        "age": "reproterms:age",
+        "sex": "reproterms:sex",
         "compute": {
             "@id": "reproterms:compute",
             "@container": "@index"
