@@ -198,6 +198,10 @@
         "rawScore": "reproterms:rawScore",
         "age": "reproterms:age",
         "sex": "reproterms:sex",
+        "allowEdit": {
+            "@id": "reproterms:allowEdit",
+            "@type": "schema:Boolean"
+        },
         "compute": {
             "@id": "reproterms:compute",
             "@container": "@index"
