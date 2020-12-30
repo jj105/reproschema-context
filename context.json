@@ -314,6 +314,16 @@
         "derivedFrom": {
             "@id": "pav:derivedFrom",
             "@type": "@id"
+        },
+        "price": {
+            "@id": "schema:price",
+            "@container": "@language"
+        },
+        "schema:price": {
+            "@container": "@language"
+        },
+        "isPrize": {
+            "@id": "reproterms:isPrize"
         }
     }
 }
