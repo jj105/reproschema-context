@@ -106,6 +106,13 @@
             "@id": "reproterms:scoring",
             "@type": "schema:Boolean"
         },
+        "responseAlert": {
+            "@id": "reproterms:responseAlert",
+            "@type": "schema:Boolean"
+        },
+        "responseAlertMessage": {
+            "@id": "reproterms:responseAlertMessage"
+        },
         "responseOptions": {
             "@id": "reproterms:responseOptions",
             "@type": "@vocab"
