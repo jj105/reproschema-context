@@ -106,6 +106,14 @@
             "@id": "reproterms:scoring",
             "@type": "schema:Boolean"
         },
+        "showTickMarks": {
+            "@id": "reproterms:showTickMarks",
+            "@type": "schema:Boolean"
+        },
+        "continousSlider": {
+            "@id": "reproterms:continousSlider",
+            "@type": "schema:Boolean"
+        },
         "responseAlert": {
             "@id": "reproterms:responseAlert",
             "@type": "schema:Boolean"
