@@ -347,7 +347,12 @@
             "@container": "@language"
         },
         "isPrize": {
-            "@id": "reproterms:isPrize"
+            "@id": "reproterms:isPrize",
+            "@type": "schema:Boolean"
+        },
+        "enableNegativeTokens": {
+            "@id": "reproterms:enableNegativeTokens",
+            "@type": "schema:Boolean"
         }
     }
 }
