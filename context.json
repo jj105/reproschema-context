@@ -125,6 +125,15 @@
             "@id": "reproterms:responseOptions",
             "@type": "@vocab"
         },
+        "sliderOptions": {
+            "@id": "reproterms:sliderOptions"
+        },
+        "itemList": {
+            "@id": "reproterms:itemList"
+        },
+        "scores": {
+            "@id": "reproterms:scores"
+        },
         "dataType": {
             "@id": "schema:DataType",
             "@type": "@id"
