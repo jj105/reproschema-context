@@ -134,6 +134,9 @@
         "scores": {
             "@id": "reproterms:scores"
         },
+        "itemOptions": {
+            "@id": "reproterms:itemOptions"
+        },
         "dataType": {
             "@id": "schema:DataType",
             "@type": "@id"
