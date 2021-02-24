@@ -359,6 +359,14 @@
         "enableNegativeTokens": {
             "@id": "reproterms:enableNegativeTokens",
             "@type": "schema:Boolean"
+        },
+        "isOptionalText": {
+            "@id": "reproterms:isOptionalText",
+            "@type": "schema:Boolean"
+        },
+        "isOptionalTextRequired": {
+            "@id": "reproterms:isOptionalTextRequired",
+            "@type": "schema:Boolean"
         }
     }
 }
