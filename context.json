@@ -121,9 +121,6 @@
             "@id": "reproterms:responseAlert",
             "@type": "schema:Boolean"
         },
-        "responseAlertMessage": {
-            "@id": "reproterms:responseAlertMessage"
-        },
         "responseOptions": {
             "@id": "reproterms:responseOptions",
             "@type": "@vocab"
@@ -146,6 +143,9 @@
         "dataType": {
             "@id": "schema:DataType",
             "@type": "@id"
+        },
+        "responseAlertMessage": {
+            "@id": "schema:responseAlertMessage"
         },
         "minValue": {
             "@id": "schema:minValue"
