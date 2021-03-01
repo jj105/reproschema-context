@@ -38,6 +38,9 @@
         "schema:score": {
             "@container": "@language"
         },
+        "schema:alert": {
+            "@container": "@language"
+        },
         "schema:image": {
             "@type": "@vocab"
         },
