@@ -153,6 +153,12 @@
         "maxValue": {
             "@id": "schema:maxValue"
         },
+        "minAlertValue": {
+            "@id": "schema:minAlertValue"
+        },
+        "maxAlertValue": {
+            "@id": "schema:maxAlertValue"
+        },
         "ui": "@nest",
         "order": {
             "@id": "reproterms:order",
