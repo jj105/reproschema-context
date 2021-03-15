@@ -241,6 +241,7 @@
         "rawScore": "reproterms:rawScore",
         "age": "reproterms:age",
         "sex": "reproterms:sex",
+        "outputText": "reproterms:outputText",
         "allowEdit": {
             "@id": "reproterms:allowEdit",
             "@type": "schema:Boolean"
