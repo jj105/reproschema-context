@@ -233,6 +233,14 @@
             "@id": "reproterms:subScales",
             "@container": "@index"
         },
+        "finalSubScale": {
+            "@id": "reproterms:finalSubScale",
+            "@container": "@index"
+        },
+        "isAverageScore": {
+            "@id": "reproterms:isAverageScore",
+            "@type": "schema:Boolean"
+        },
         "lookupTable": {
             "@id": "reproterms:lookupTable",
             "@container": "@index"
