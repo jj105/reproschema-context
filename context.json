@@ -385,6 +385,18 @@
         "isOptionalTextRequired": {
             "@id": "reproterms:isOptionalTextRequired",
             "@type": "schema:Boolean"
+        },
+        "baseAppletId": {
+            "@id": "reproterms:baseAppletId",
+            "@type": "@id"
+        },
+        "baseActivityId": {
+            "@id": "reproterms:baseActivityId",
+            "@type": "@id"
+        },
+        "baseItemId": {
+            "@id": "reproterms:baseItemId",
+            "@type": "@id"
         }
     }
 }
