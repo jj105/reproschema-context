@@ -109,6 +109,10 @@
             "@id": "reproterms:scoring",
             "@type": "schema:Boolean"
         },
+        "randomizeOptions": {
+            "@id": "reproterms:randomizeOptions",
+            "@type": "schema:Boolean",
+        },
         "showTickMarks": {
             "@id": "reproterms:showTickMarks",
             "@type": "schema:Boolean"
