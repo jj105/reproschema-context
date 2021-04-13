@@ -111,7 +111,7 @@
         },
         "randomizeOptions": {
             "@id": "reproterms:randomizeOptions",
-            "@type": "schema:Boolean",
+            "@type": "schema:Boolean"
         },
         "showTickMarks": {
             "@id": "reproterms:showTickMarks",
