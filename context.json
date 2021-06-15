@@ -262,6 +262,10 @@
             "@id": "reproterms:isResponseIdentifier",
             "@type": "schema:Boolean"
         },
+        "hasResponseIdentifier": {
+            "@id": "reproterms:hasResponseIdentifier",
+            "@type": "schema:Boolean"
+        },
         "compute": {
             "@id": "reproterms:compute",
             "@container": "@index"
