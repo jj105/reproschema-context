@@ -409,6 +409,9 @@
         "baseItemId": {
             "@id": "reproterms:baseItemId",
             "@type": "@id"
+        },
+        "nextActivity": {
+            "@id": "reproterms:nextActivity"
         }
     }
 }
