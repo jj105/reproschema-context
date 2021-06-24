@@ -328,6 +328,7 @@
         "fullScreen": "reproterms:full_screen",
         "autoAdvance": "reproterms:auto_advance",
         "disableBack": "reproterms:disable_back",
+        "disableSummary": "reproterms:disable_summary",
         "allowExport": "reproterms:allow_export",
         "media": "reproterms:media",
         "timer": {
