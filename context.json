@@ -44,6 +44,9 @@
         "schema:image": {
             "@type": "@vocab"
         },
+        "schema:watermark": {
+            "@type": "@vocab"
+        },
         "schema:citation": {
             "@container": "@language"
         },
