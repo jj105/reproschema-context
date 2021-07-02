@@ -32,6 +32,9 @@
         "schema:name": {
             "@container": "@language"
         },
+        "schema:color": {
+            "@type": "schema:String"
+        },
         "schema:value": {
             "@container": "@language"
         },
@@ -106,6 +109,10 @@
         },
         "requiredValue": {
             "@id": "reproterms:requiredValue",
+            "@type": "schema:Boolean"
+        },
+        "colorPalette": {
+            "@id": "reproterms:colorPalette",
             "@type": "schema:Boolean"
         },
         "multipleChoice": {
