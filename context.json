@@ -127,6 +127,10 @@
             "@id": "reproterms:randomizeOptions",
             "@type": "schema:Boolean"
         },
+        "topNavigationOption": {
+            "@id": "reproterms:topNavigationOption",
+            "@type": "schema:Boolean"
+        },
         "removeBackOption": {
             "@id": "reproterms:removeBackOption",
             "@type": "schema:Boolean"
