@@ -169,6 +169,12 @@
         "responseAlertMessage": {
             "@id": "schema:responseAlertMessage"
         },
+        "minAge": {
+            "@id": "schema:minAge"
+        },
+        "maxAge": {
+            "@id": "schema:maxAge"
+        },
         "minValue": {
             "@id": "schema:minValue"
         },
