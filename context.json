@@ -312,6 +312,14 @@
         "jsExpression": {
             "@id": "reproterms:jsExpression"
         },
+        "scoreOverview": {
+            "@id": "reproterms:scoreOverview",
+            "@container": "@language"
+        },
+        "direction": {
+            "@id": "reproterms:direction",
+            "@type": "schema:Boolean"
+        },
         "visibility": {
             "@id": "reproterms:visibility",
             "@container": "@index",
