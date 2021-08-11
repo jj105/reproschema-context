@@ -177,6 +177,9 @@
         "responseAlertMessage": {
             "@id": "schema:responseAlertMessage"
         },
+        "timeDuration": {
+            "@id": "schema:timeDuration"
+        },
         "minAge": {
             "@id": "schema:minAge"
         },
