@@ -73,6 +73,9 @@
             "@id": "skos:altLabel",
             "@container": "@language"
         },
+        "isHidden": {
+            "@type": "schema:Boolean"
+        },
         "preamble": {
             "@id": "reproterms:preamble",
             "@container": "@language"
