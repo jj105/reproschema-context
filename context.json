@@ -456,6 +456,10 @@
         },
         "nextActivity": {
             "@id": "reproterms:nextActivity"
+        },
+        "hideActivity": {
+            "@id": "reproterms:hideActivity",
+            "@type": "schema:Boolean"
         }
     }
 }
