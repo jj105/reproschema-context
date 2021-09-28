@@ -147,6 +147,18 @@
             "@id": "reproterms:continousSlider",
             "@type": "schema:Boolean"
         },
+        "tickMark": {
+            "@id": "reproterms:tickMark",
+            "@type": "schema:Boolean"
+        },
+        "tickLabel": {
+            "@id": "reproterms:tickLabel",
+            "@type": "schema:Boolean"
+        },
+        "textAnchors": {
+            "@id": "reproterms:textAnchors",
+            "@type": "schema:Boolean"
+        },
         "responseAlert": {
             "@id": "reproterms:responseAlert",
             "@type": "schema:Boolean"
