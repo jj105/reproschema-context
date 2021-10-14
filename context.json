@@ -29,6 +29,15 @@
             "@id": "schema:score",
             "@container": "@language"
         },
+        "rate": {
+            "@id": "schema:rate"
+        },
+        "startTime": {
+            "@id": "schema:startTime"
+        },
+        "schema:endTime": {
+            "@id": "schema:endTime"
+        },
         "schema:name": {
             "@container": "@language"
         },
@@ -169,6 +178,12 @@
         },
         "sliderOptions": {
             "@id": "reproterms:sliderOptions"
+        },
+        "positiveBehaviors": {
+            "@id": "reproterms:positiveBehaviors"
+        },
+        "negativeBehaviors": {
+            "@id": "reproterms:negativeBehaviors"
         },
         "options": {
             "@id": "reproterms:options"
