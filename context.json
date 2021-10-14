@@ -35,7 +35,7 @@
         "startTime": {
             "@id": "schema:startTime"
         },
-        "schema:endTime": {
+        "endTime": {
             "@id": "schema:endTime"
         },
         "schema:name": {
