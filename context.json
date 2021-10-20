@@ -116,6 +116,10 @@
             "@id": "schema:DigitalDocument",
             "@type": "@id"
         },
+        "timeScreen": {
+            "@id": "reproterms:timeScreen",
+            "@type": "schema:String"
+        },
         "requiredValue": {
             "@id": "reproterms:requiredValue",
             "@type": "schema:Boolean"
