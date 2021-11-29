@@ -90,6 +90,10 @@
             "@id": "reproterms:isReviewerActivity",
             "@type": "schema:Boolean"
         },
+        "streamEnabled": {
+            "@id": "reproterms:streamEnabled",
+            "@type": "schema:Boolean"
+        },
         "valueType": {
             "@id": "reproterms:valueType",
             "@type": "@vocab"
