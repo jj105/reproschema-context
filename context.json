@@ -90,6 +90,10 @@
             "@id": "reproterms:isReviewerActivity",
             "@type": "schema:Boolean"
         },
+        "isOnePageAssessment": {
+            "@id": "reproterms:isOnePageAssessment",
+            "@type": "schema:Boolean"
+        },
         "streamEnabled": {
             "@id": "reproterms:streamEnabled",
             "@type": "schema:Boolean"
