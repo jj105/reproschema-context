@@ -110,6 +110,10 @@
             "@id": "reproterms:landingPageContent",
             "@container": "@language"
         },
+        "landingPageType": {
+            "@id": "reproterms:landingPageType",
+            "@type": "xsd:string"
+        },
         "correctAnswer": {
             "@id": "schema:correctAnswer"
         },
