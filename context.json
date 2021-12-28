@@ -29,14 +29,14 @@
             "@id": "schema:score",
             "@container": "@language"
         },
-        "rate": {
-            "@id": "schema:rate"
+        "schema:rate": {
+            "@container": "@language"
         },
-        "startTime": {
-            "@id": "schema:startTime"
+        "schema:startTime": {
+            "@container": "@language"
         },
-        "endTime": {
-            "@id": "schema:endTime"
+        "schema:endTime": {
+            "@container": "@language"
         },
         "schema:name": {
             "@container": "@language"
