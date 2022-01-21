@@ -98,6 +98,10 @@
             "@id": "reproterms:streamEnabled",
             "@type": "schema:Boolean"
         },
+        "combineReports": {
+            "@id": "reproterms:combineReports",
+            "@type": "schema:Boolean"
+        },
         "valueType": {
             "@id": "reproterms:valueType",
             "@type": "@vocab"
