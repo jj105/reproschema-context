@@ -29,6 +29,14 @@
             "@id": "schema:score",
             "@container": "@language"
         },
+        "header": {
+            "@id": "schema:header",
+            "@container": "@language"
+        },
+        "section": {
+            "@id": "schema:section",
+            "@container": "@language"
+        },
         "schema:rate": {
             "@container": "@language"
         },
