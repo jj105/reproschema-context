@@ -126,6 +126,10 @@
             "@id": "reproterms:landingPageType",
             "@type": "xsd:string"
         },
+        "activityType": {
+            "@id": "reproterms:activityType",
+            "@type": "xsd:string"
+        },
         "correctAnswer": {
             "@id": "schema:correctAnswer"
         },
