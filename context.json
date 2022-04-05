@@ -94,6 +94,9 @@
             "@id": "reproterms:preamble",
             "@container": "@language"
         },
+        "maxLength": {
+            "@id": "reproterms:maxLength"
+        },
         "isReviewerActivity": {
             "@id": "reproterms:isReviewerActivity",
             "@type": "schema:Boolean"
