@@ -95,7 +95,8 @@
             "@container": "@language"
         },
         "maxLength": {
-            "@id": "reproterms:maxLength"
+            "@id": "reproterms:maxLength",
+            "@type": "schema:Number"
         },
         "isReviewerActivity": {
             "@id": "reproterms:isReviewerActivity",
