@@ -114,6 +114,10 @@
             "@id": "reproterms:combineReports",
             "@type": "schema:Boolean"
         },
+        "showBadge": {
+            "@id": "reproterms:showBadge",
+            "@type": "schema:Boolean"
+        },
         "valueType": {
             "@id": "reproterms:valueType",
             "@type": "@vocab"
