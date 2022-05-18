@@ -265,6 +265,18 @@
         "maxAlertValue": {
             "@id": "schema:maxAlertValue"
         },
+        "activityFlows": "@nest",
+        "activityFlowOrder": {
+            "@id": "reproterms:activityFlowOrder",
+            "@container": "@list",
+            "@type": "@vocab",
+            "@nest": "activityFlows"
+        },
+        "activityFlowProperties": {
+            "@id": "reproterms:activityFlowProperties",
+            "@container": "@index",
+            "@nest": "activityFlows"
+        },
         "ui": "@nest",
         "order": {
             "@id": "reproterms:order",
