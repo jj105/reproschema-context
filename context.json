@@ -297,6 +297,10 @@
             "@id": "reproterms:conditionals",
             "@container": "@list"
         },
+        "reports": {
+            "@id": "reproterms:reports",
+            "@container": "@list"
+        },
         "shuffle": {
             "@id": "reproterms:shuffle",
             "@type": "schema:Boolean",
