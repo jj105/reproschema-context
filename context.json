@@ -289,6 +289,14 @@
             "@container": "@index",
             "@nest": "ui"
         },
+        "printItems": {
+            "@id": "reproterms:printItems",
+            "@container": "@list"
+        },
+        "conditionals": {
+            "@id": "reproterms:conditionals",
+            "@container": "@list"
+        },
         "shuffle": {
             "@id": "reproterms:shuffle",
             "@type": "schema:Boolean",
