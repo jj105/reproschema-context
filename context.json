@@ -521,6 +521,10 @@
         "schema:price": {
             "@container": "@language"
         },
+        "flagScore": {
+            "@id": "reproterms:flagScore",
+            "@type": "schema:Boolean"
+        },
         "isPrize": {
             "@id": "reproterms:isPrize",
             "@type": "schema:Boolean"
