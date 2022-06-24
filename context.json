@@ -301,6 +301,10 @@
             "@id": "reproterms:reports",
             "@container": "@list"
         },
+        "reportConfigs": {
+            "@id": "reproterms:reportConfigs",
+            "@container": "@list"
+        },
         "shuffle": {
             "@id": "reproterms:shuffle",
             "@type": "schema:Boolean",
