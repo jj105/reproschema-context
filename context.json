@@ -305,6 +305,9 @@
             "@id": "reproterms:reportConfigs",
             "@container": "@list"
         },
+        "reportIncludeItem": {
+            "@id": "reproterms:reportIncludeItem"
+        },
         "shuffle": {
             "@id": "reproterms:shuffle",
             "@type": "schema:Boolean",
